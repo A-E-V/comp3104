@@ -1,0 +1,16 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "- Adrian  -v Vargas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-E-V/comp3104.git"
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Adrian Vargas",
+  "license": "ISC"
+}
